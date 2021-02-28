@@ -1,2 +1,2 @@
-# 2021-Flutter-Bootcamp
+# AwesomeFlutterSchool
 Projects related to Flutter Bootcamp
